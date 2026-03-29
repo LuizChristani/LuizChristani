@@ -32,7 +32,6 @@
 ![Java](https://img.shields.io/badge/Java-bf00ff?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-7b2ff7?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-9d4edd?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6a0dad?style=for-the-badge&logo=php&logoColor=white)
  
 <h4>◈ Frontend</h4>
  
