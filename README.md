@@ -50,48 +50,42 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-9d4edd?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
+ 
 <h2>📌 Projetos em Destaque</h2>
-
+ 
 <table>
   <tr>
-    <td align="center">🎫</td>
-    <td><b>Sistema de Tickets</b></td>
-    <td>Java · Spring · React</td>
+    <td>🎫 &nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20Tickets-bf00ff?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=openjdk&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/Spring-0d0d1a?style=flat-square&logo=spring&logoColor=7b2ff7"/> <img src="https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=9d4edd"/></td>
     <td>Gestão de chamados com Long Polling em tempo real · <i>Desenvolvido para uma startup que não foi adiante</i></td>
   </tr>
   <tr>
-    <td align="center">🕐</td>
-    <td><b>WorkSync</b></td>
-    <td>Java · Spring Boot · Electron · PostgreSQL</td>
+    <td>🕐 &nbsp;<img src="https://img.shields.io/badge/WorkSync-7b2ff7?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=openjdk&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/Electron-0d0d1a?style=flat-square&logo=electron&logoColor=7b2ff7"/> <img src="https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=9d4edd"/></td>
     <td>App desktop de ponto com sync offline/online · <i>Desenvolvido para uma startup que não foi adiante</i></td>
   </tr>
   <tr>
-    <td align="center">🎮</td>
-    <td><b>MODs FiveM</b></td>
-    <td>Lua · JavaScript</td>
+    <td>🎮 &nbsp;<img src="https://img.shields.io/badge/MODs%20FiveM-9d4edd?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Lua-0d0d1a?style=flat-square&logo=lua&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=7b2ff7"/></td>
     <td>Sistema de permissões granular para roleplay</td>
   </tr>
   <tr>
-    <td align="center">📦</td>
-    <td><b>Gestão de Estoque</b></td>
-    <td>PHP · React</td>
+    <td>📦 &nbsp;<img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Estoque-bf00ff?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/PHP-0d0d1a?style=flat-square&logo=php&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=7b2ff7"/></td>
     <td>Controle de estoque com CRUD e filtros</td>
   </tr>
   <tr>
-    <td align="center">👥</td>
-    <td><b>Sistema de RH</b></td>
-    <td>Go</td>
+    <td>👥 &nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20RH-7b2ff7?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Go-0d0d1a?style=flat-square&logo=go&logoColor=bf00ff"/></td>
     <td>Gestão de usuários, cargos e funcionários</td>
   </tr>
   <tr>
-    <td align="center">💰</td>
-    <td><b>FamilyFinance</b> 🔒</td>
-    <td>Em breve</td>
+    <td>💰 &nbsp;<img src="https://img.shields.io/badge/FamilyFinance%20%F0%9F%94%92-9d4edd?style=for-the-badge&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Em%20breve-0d0d1a?style=flat-square&logoColor=bf00ff"/></td>
     <td>Gestão financeira familiar · Projeto privado com lançamento planejado para o mercado</td>
   </tr>
 </table>
-
+ 
 ---
 
 <h2>🏅 Conquistas</h2>
