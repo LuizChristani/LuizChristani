@@ -65,7 +65,7 @@
     <td>App desktop de ponto com sync offline/online · <i>Desenvolvido para uma startup que não foi adiante</i></td>
   </tr>
   <tr>
-    <td>🎮 &nbsp;<img src="https://img.shields.io/badge/MODs%20FiveM-9d4edd?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/MODs%20FiveM-9d4edd?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Lua-0d0d1a?style=flat-square&logo=lua&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=7b2ff7"/></td>
     <td>Sistema de permissões granular para roleplay</td>
   </tr>
@@ -75,7 +75,7 @@
     <td>Controle de estoque com CRUD e filtros</td>
   </tr>
   <tr>
-    <td>👥 &nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20RH-7b2ff7?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20RH-7b2ff7?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Go-0d0d1a?style=flat-square&logo=go&logoColor=bf00ff"/></td>
     <td>Gestão de usuários, cargos e funcionários</td>
   </tr>
