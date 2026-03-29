@@ -17,7 +17,7 @@
 ```
 ◈ Desenvolvedor FullStack Júnior · Apaixonado por backend e arquitetura limpa
 ◈ 2x 2º Lugar no Startup Weekend (2023 e 2024)
-◈ Estudante de Ciência da Computação — UNOESC (2023–2027)
+◈ Estudante de Ciência da Computação — UNOESC
 ◈ Criador de MODs para FiveM e sistemas do zero
 ```
  
