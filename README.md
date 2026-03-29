@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na UNOESC (2023–2027)
+- 🎓 Estudante de **Ciência da Computação** na UNOESC
 - 💼 Experiência com **backend robusto**, APIs REST e arquitetura limpa
 - 🏅 **2x 2º lugar no Startup Weekend** (2023 e 2024)
 - 🔭 Atualmente trabalhando em projetos com Java, Spring Boot e React
