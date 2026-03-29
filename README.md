@@ -1,80 +1,129 @@
-<h1 align="center">Olá, eu sou o Luiz Felipe Christani 👋</h1>
-
 <p align="center">
-  Desenvolvedor FullStack Júnior · Java · Spring Boot · React · FiveM
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7,bf00ff&height=200&section=header&text=Luiz%20Christani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=16&animation=twinkling" />
 </p>
-
+ 
 <p align="center">
   <a href="mailto:gogusaiadin4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-gogusaiadin4%40gmail.com-bf00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/5549984008237">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2B55%2049%2098400--8237-7b2ff7?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d1a"/>
   </a>
 </p>
-
+ 
+<br/>
+ 
+```
+◈ Desenvolvedor FullStack Júnior · Apaixonado por backend e arquitetura limpa
+◈ 2x 2º Lugar no Startup Weekend (2023 e 2024)
+◈ Estudante de Ciência da Computação — UNOESC (2023–2027)
+◈ Criador de MODs para FiveM e sistemas do zero
+```
+ 
+<br/>
+ 
 ---
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Ciência da Computação** na UNOESC
-- 💼 Experiência com **backend robusto**, APIs REST e arquitetura limpa
-- 🏅 **2x 2º lugar no Startup Weekend** (2023 e 2024)
-- 🔭 Atualmente trabalhando em projetos com Java, Spring Boot e React
-- 🎮 Desenvolvedor de MODs para **FiveM** (Lua, JavaScript)
-
+ 
+<h2>⚡ Tecnologias</h2>
+ 
+<h4>◈ Backend</h4>
+ 
+![Java](https://img.shields.io/badge/Java-bf00ff?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-7b2ff7?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-9d4edd?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6a0dad?style=for-the-badge&logo=php&logoColor=white)
+ 
+<h4>◈ Frontend</h4>
+ 
+![React](https://img.shields.io/badge/React-bf00ff?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7b2ff7?style=for-the-badge&logo=typescript&logoColor=white)
+ 
+<h4>◈ Banco de dados & ORM</h4>
+ 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-bf00ff?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-7b2ff7?style=for-the-badge&logo=hibernate&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-9d4edd?style=for-the-badge&logo=prisma&logoColor=white)
+ 
+<h4>◈ Infra & Ferramentas</h4>
+ 
+![Docker](https://img.shields.io/badge/Docker-bf00ff?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7b2ff7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-9d4edd?style=for-the-badge&logo=github-actions&logoColor=white)
+ 
 ---
-
-## 🛠️ Tecnologias
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Banco de Dados & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-**Ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+ 
+<h2>📊 GitHub Stats</h2>
+ 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&bg_color=0d0d1a&title_color=bf00ff&text_color=e0aaff&icon_color=7b2ff7&border_color=7b2ff7&hide_border=false&rank_icon=github"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0d1a&title_color=bf00ff&text_color=e0aaff&border_color=7b2ff7&hide_border=false"/>
 </p>
-
+ 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&background=0d0d1a&ring=bf00ff&fire=bf00ff&currStreakLabel=e0aaff&sideLabels=e0aaff&dates=9d4edd&border=7b2ff7"/>
 </p>
-
+ 
+> 🔐 Para exibir commits privados, veja a configuração do **lowlighter/metrics** mais abaixo.
+ 
 ---
-
-## 📌 Projetos em Destaque
-
-| Projeto | Tecnologias | Descrição |
-|---|---|---|
-| 🎫 Sistema de Tickets | Java, Spring, React | Gestão de chamados com Long Polling em tempo real |
-| 🕐 WorkSync | Java, Spring Boot, Electron, PostgreSQL | App desktop de registro de ponto offline/online |
-| 🎮 MODs FiveM | Lua, JavaScript | Sistema de permissões granular para servidores roleplay |
-| 📦 Gestão de Estoque | PHP, React | Controle de estoque com CRUD e filtros |
-| 👥 Sistema de RH | Go | Gestão de usuários, cargos e funcionários |
-
+ 
+<h2>📌 Projetos em Destaque</h2>
+ 
+<table>
+  <tr>
+    <td align="center">🎫</td>
+    <td><b>Sistema de Tickets</b></td>
+    <td>Java · Spring · React</td>
+    <td>Gestão de chamados com Long Polling em tempo real</td>
+  </tr>
+  <tr>
+    <td align="center">🕐</td>
+    <td><b>WorkSync</b></td>
+    <td>Java · Spring Boot · Electron · PostgreSQL</td>
+    <td>App desktop de ponto com sync offline/online</td>
+  </tr>
+  <tr>
+    <td align="center">🎮</td>
+    <td><b>MODs FiveM</b></td>
+    <td>Lua · JavaScript</td>
+    <td>Sistema de permissões granular para roleplay</td>
+  </tr>
+  <tr>
+    <td align="center">📦</td>
+    <td><b>Gestão de Estoque</b></td>
+    <td>PHP · React</td>
+    <td>Controle de estoque com CRUD e filtros</td>
+  </tr>
+  <tr>
+    <td align="center">👥</td>
+    <td><b>Sistema de RH</b></td>
+    <td>Go</td>
+    <td>Gestão de usuários, cargos e funcionários</td>
+  </tr>
+  <tr>
+    <td align="center">💰</td>
+    <td><b>FamilyFinance</b> 🔒</td>
+    <td>Em breve</td>
+    <td>Gestão financeira familiar · Projeto privado com lançamento planejado para o mercado</td>
+  </tr>
+</table>
+ 
 ---
-
-<p align="center">⭐ Deixa uma estrela nos projetos que curtir!</p>
+ 
+<h2>🏅 Conquistas</h2>
+ 
+```
+🥈  2º Lugar — Startup Weekend 2023
+    Plataforma de matchmaking para comunidade gamer · Liderança de equipe · Pitch final
+ 
+🥈  2º Lugar — Startup Weekend 2024
+    App de controle de medicamentos para múltiplos pacientes · Protótipo + demo premiada
+```
+ 
+---
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7,bf00ff&height=120&section=footer"/>
+</p>
