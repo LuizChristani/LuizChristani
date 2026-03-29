@@ -7,10 +7,6 @@
     <img src="https://img.shields.io/badge/Gmail-gogusaiadin4%40gmail.com-bf00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
   </a>
   &nbsp;
-  <a href="https://wa.me/5549984008237">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B55%2049%2098400--8237-7b2ff7?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d1a"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/luiz-felipe-christani-a485a1323/">
     <img src="https://img.shields.io/badge/LinkedIn-Luiz%20Christani-bf00ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a"/>
   </a>
