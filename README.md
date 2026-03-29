@@ -49,23 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-bf00ff?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7b2ff7?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-9d4edd?style=for-the-badge&logo=github-actions&logoColor=white)
- 
----
- 
-<h2>📊 GitHub Stats</h2>
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&bg_color=0d0d1a&title_color=bf00ff&text_color=e0aaff&icon_color=7b2ff7&border_color=7b2ff7&hide_border=false&rank_icon=github"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0d1a&title_color=bf00ff&text_color=e0aaff&border_color=7b2ff7&hide_border=false"/>
-</p>
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&background=0d0d1a&ring=bf00ff&fire=bf00ff&currStreakLabel=e0aaff&sideLabels=e0aaff&dates=9d4edd&border=7b2ff7"/>
-</p>
- 
-> 🔐 Para exibir commits privados, veja a configuração do **lowlighter/metrics** mais abaixo.
- 
+
 ---
  
 <h2>📌 Projetos em Destaque</h2>
