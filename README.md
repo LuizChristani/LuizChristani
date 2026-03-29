@@ -55,12 +55,12 @@
  
 <table>
   <tr>
-    <td>🎫 &nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20Tickets-bf00ff?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/Sistema%20de%20Tickets-bf00ff?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=openjdk&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/Spring-0d0d1a?style=flat-square&logo=spring&logoColor=7b2ff7"/> <img src="https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=9d4edd"/></td>
     <td>Gestão de chamados com Long Polling em tempo real · <i>Desenvolvido para uma startup que não foi adiante</i></td>
   </tr>
   <tr>
-    <td>🕐 &nbsp;<img src="https://img.shields.io/badge/WorkSync-7b2ff7?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/WorkSync-7b2ff7?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Java-0d0d1a?style=flat-square&logo=openjdk&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/Electron-0d0d1a?style=flat-square&logo=electron&logoColor=7b2ff7"/> <img src="https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=9d4edd"/></td>
     <td>App desktop de ponto com sync offline/online · <i>Desenvolvido para uma startup que não foi adiante</i></td>
   </tr>
@@ -70,7 +70,7 @@
     <td>Sistema de permissões granular para roleplay</td>
   </tr>
   <tr>
-    <td>📦 &nbsp;<img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Estoque-bf00ff?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Estoque-bf00ff?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/PHP-0d0d1a?style=flat-square&logo=php&logoColor=bf00ff"/> <img src="https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=7b2ff7"/></td>
     <td>Controle de estoque com CRUD e filtros</td>
   </tr>
@@ -80,7 +80,7 @@
     <td>Gestão de usuários, cargos e funcionários</td>
   </tr>
   <tr>
-    <td>💰 &nbsp;<img src="https://img.shields.io/badge/FamilyFinance%20%F0%9F%94%92-9d4edd?style=for-the-badge&logoColor=white"/></td>
+    <td>&nbsp;<img src="https://img.shields.io/badge/FamilyFinance%20%F0%9F%94%92-9d4edd?style=for-the-badge&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Em%20breve-0d0d1a?style=flat-square&logoColor=bf00ff"/></td>
     <td>Gestão financeira familiar · Projeto privado com lançamento planejado para o mercado</td>
   </tr>
