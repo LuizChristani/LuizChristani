@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gogusaiadin4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gogusaiadin4%40gmail.com-bf00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
+  <a href="mailto:luizchristani159@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-luizchristani159%40gmail.com-bf00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/luiz-felipe-christani-a485a1323/">
